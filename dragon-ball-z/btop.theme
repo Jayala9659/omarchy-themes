@@ -1,0 +1,87 @@
+# Dragon Ball Z — btop theme
+# Main background
+theme[main_bg]="#0d1420"
+
+# Main text color
+theme[main_fg]="#f4ecd9"
+
+# Title color for boxes
+theme[title]="#ffd54a"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#ff8c1a"
+
+# Background color of selected items
+theme[selected_bg]="#22304a"
+
+# Foreground color of selected items
+theme[selected_fg]="#ffb347"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#2c3a55"
+
+# Color of text appearing on top of graphs
+theme[graph_text]="#f4ecd9"
+
+# Misc colors for processes box
+theme[proc_misc]="#ffe082"
+
+# Cpu box outline color
+theme[cpu_box]="#4fa8e0"
+
+# Memory/disks box outline color
+theme[mem_box]="#4fa8e0"
+
+# Net up/down box outline color
+theme[net_box]="#4fa8e0"
+
+# Processes box outline color
+theme[proc_box]="#4fa8e0"
+
+# Box divider line and small boxes line color
+theme[div_line]="#2c3a55"
+
+# Temperature graph colors
+theme[temp_start]="#79c26e"
+theme[temp_mid]="#ffd54a"
+theme[temp_end]="#ef5350"
+
+# CPU graph colors
+theme[cpu_start]="#c96a10"
+theme[cpu_mid]="#ff8c1a"
+theme[cpu_end]="#ffb347"
+
+# Mem/Disk free meter
+theme[free_start]="#2b5e8f"
+theme[free_mid]="#3d7fb8"
+theme[free_end]="#4fa8e0"
+
+# Mem/Disk cached meter
+theme[cached_start]="#2b5e8f"
+theme[cached_mid]="#3d7fb8"
+theme[cached_end]="#56d4dd"
+
+# Mem/Disk available meter
+theme[available_start]="#2b5e8f"
+theme[available_mid]="#3d7fb8"
+theme[available_end]="#4fa8e0"
+
+# Mem/Disk used meter
+theme[used_start]="#c96a10"
+theme[used_mid]="#ff8c1a"
+theme[used_end]="#ffd54a"
+
+# Download graph colors
+theme[download_start]="#97ecf5"
+theme[download_mid]="#56d4dd"
+theme[download_end]="#1d5d66"
+
+# Upload graph colors
+theme[upload_start]="#1d5d66"
+theme[upload_mid]="#ffe082"
+theme[upload_end]="#ffd54a"
+
+# Process box color gradient for threads, mem and cpu usage
+theme[process_start]="#a3dd8f"
+theme[process_mid]="#ffe082"
+theme[process_end]="#ff8a7a"
